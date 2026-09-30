@@ -1,5 +1,5 @@
 import Header from './components/Header';
-import EmojiGrid from './components/EmojiGrid';
+import EmojiFinder from './components/EmojiFinder';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="app-container">
       <Header />
       <main className="main-content">
-        <EmojiGrid />
+        <EmojiFinder />
       </main>
     </div>
   );

@@ -10,7 +10,6 @@
 
 .header-content {
   text-align: center;
-  margin-bottom: 32px;
 }
 
 .header-content h1 {
@@ -23,23 +22,4 @@
   font-size: 24px;
   font-weight: 400;
   opacity: 0.8;
-}
-
-.search-container {
-  position: absolute;
-  bottom: -32px;
-  width: 100%;
-  max-width: 700px;
-  padding: 0 16px;
-}
-
-.search-input {
-  width: 100%;
-  padding: 20px 24px;
-  font-size: 20px;
-  font-family: 'Inter', sans-serif;
-  border: none;
-  border-radius: 8px;
-  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
-  outline: none;
 }
